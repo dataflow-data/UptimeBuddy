@@ -26,7 +26,7 @@ For any issues, questions, or feature requests, please feel free to start a new 
 [**Join our discord server**](https://discord.gg/Gv4ptUMjMw )
 
 
-## Privacy & Security
+## 🔏 Privacy & Security
 Uptime Buddy does not store personal user data. It only saves necessary service configurations to ensure smooth operation.
 
 ---
