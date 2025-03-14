@@ -23,6 +23,9 @@ Click the link below to add Uptime Buddy to your Discord server:
 ## Support & Feedback
 For any issues, questions, or feature requests, please feel free to start a new issue within the repository.
 
+[**Join our discord server**](https://discord.gg/Gv4ptUMjMw )
+
+
 ## Privacy & Security
 Uptime Buddy does not store personal user data. It only saves necessary service configurations to ensure smooth operation.
 
