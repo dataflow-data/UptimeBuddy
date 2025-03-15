@@ -6,9 +6,6 @@ Uptime Buddy is a Discord bot that provides real-time service status updates, in
 ### 🔔 Instant Notifications
 Get alerted when a monitored service goes down.
 
-### 📊 Uptime Monitoring
-Track the status of your services over time.
-
 ### ⚙️ Customizable
 Set up monitored websites and configure alert preferences.
 
